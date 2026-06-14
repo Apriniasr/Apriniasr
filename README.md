@@ -8,4 +8,4 @@ An Informatics Graduate from UPN "Veteran" Jawa Timur with a strong focus on Web
 - 🌱 I’m currently learning advanced Nest.js, TypeScript, and microservices architecture.
 - 👯 I’m looking to collaborate on Front-End Development projects, especially using React/Next.js and Tailwind CSS.
 - 💬 Ask me about Web Development, PHP/Laravel ecosystem, and Responsive Web Design
-- 📫 How to reach me: apriniasalsabila99@gmail.com
+- 📫 How to reach me: [apriniasalsabila99@gmail.com](mailto:apriniasalsabila99@gmail.com)
